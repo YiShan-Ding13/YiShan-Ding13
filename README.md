@@ -20,8 +20,8 @@ Focusing on real-time rendering, game develop, technical art. Currently seeking 
 ---
 
 
-//<p align="center">
-//  <a href="你的Portfolio链接">Portfolio</a> •
-//  <a href="你的Itch.io链接">Itch.io</a> •
-//  <a href="你的CV链接">Check out my CV</a>
-//</p>
+<!-- <p align="center">
+  <a href="你的Portfolio链接">Portfolio</a> •
+  <a href="你的Itch.io链接">Itch.io</a> •
+  <a href="你的CV链接">Check out my CV</a>
+</p> -->
