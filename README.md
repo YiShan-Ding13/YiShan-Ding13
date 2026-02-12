@@ -13,7 +13,7 @@ Focusing on real-time rendering, game develop, technical art. Currently seeking 
 ### 🛠 Languages and Tools:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,cs,unity,unreal,py,js,threejs,latex,docker,github,visualstudio&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=cs,unity,unreal,cpp,arduino,github,blender,ai,ps,sketchup,figma,visualstudio&theme=dark" />
   </a>
 </p>
 
